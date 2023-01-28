@@ -1,0 +1,15 @@
+/Users/olgabelova/Desktop/Lesson1C#/Task2/bin/Debug/net7.0/Task2
+/Users/olgabelova/Desktop/Lesson1C#/Task2/bin/Debug/net7.0/Task2.deps.json
+/Users/olgabelova/Desktop/Lesson1C#/Task2/bin/Debug/net7.0/Task2.runtimeconfig.json
+/Users/olgabelova/Desktop/Lesson1C#/Task2/bin/Debug/net7.0/Task2.dll
+/Users/olgabelova/Desktop/Lesson1C#/Task2/bin/Debug/net7.0/Task2.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Task2/obj/Debug/net7.0/Task2.csproj.AssemblyReference.cache
+/Users/olgabelova/Desktop/Lesson1C#/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgabelova/Desktop/Lesson1C#/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/Users/olgabelova/Desktop/Lesson1C#/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Task2/obj/Debug/net7.0/Task2.dll
+/Users/olgabelova/Desktop/Lesson1C#/Task2/obj/Debug/net7.0/refint/Task2.dll
+/Users/olgabelova/Desktop/Lesson1C#/Task2/obj/Debug/net7.0/Task2.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Task2/obj/Debug/net7.0/Task2.genruntimeconfig.cache
+/Users/olgabelova/Desktop/Lesson1C#/Task2/obj/Debug/net7.0/ref/Task2.dll
