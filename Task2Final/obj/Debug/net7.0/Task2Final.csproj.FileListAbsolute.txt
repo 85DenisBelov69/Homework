@@ -1,0 +1,15 @@
+/Users/olgabelova/Desktop/Lesson1C#/Task2/Task2Final/bin/Debug/net7.0/Task2Final
+/Users/olgabelova/Desktop/Lesson1C#/Task2/Task2Final/bin/Debug/net7.0/Task2Final.deps.json
+/Users/olgabelova/Desktop/Lesson1C#/Task2/Task2Final/bin/Debug/net7.0/Task2Final.runtimeconfig.json
+/Users/olgabelova/Desktop/Lesson1C#/Task2/Task2Final/bin/Debug/net7.0/Task2Final.dll
+/Users/olgabelova/Desktop/Lesson1C#/Task2/Task2Final/bin/Debug/net7.0/Task2Final.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Task2/Task2Final/obj/Debug/net7.0/Task2Final.csproj.AssemblyReference.cache
+/Users/olgabelova/Desktop/Lesson1C#/Task2/Task2Final/obj/Debug/net7.0/Task2Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgabelova/Desktop/Lesson1C#/Task2/Task2Final/obj/Debug/net7.0/Task2Final.AssemblyInfoInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Task2/Task2Final/obj/Debug/net7.0/Task2Final.AssemblyInfo.cs
+/Users/olgabelova/Desktop/Lesson1C#/Task2/Task2Final/obj/Debug/net7.0/Task2Final.csproj.CoreCompileInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Task2/Task2Final/obj/Debug/net7.0/Task2Final.dll
+/Users/olgabelova/Desktop/Lesson1C#/Task2/Task2Final/obj/Debug/net7.0/refint/Task2Final.dll
+/Users/olgabelova/Desktop/Lesson1C#/Task2/Task2Final/obj/Debug/net7.0/Task2Final.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Task2/Task2Final/obj/Debug/net7.0/Task2Final.genruntimeconfig.cache
+/Users/olgabelova/Desktop/Lesson1C#/Task2/Task2Final/obj/Debug/net7.0/ref/Task2Final.dll
