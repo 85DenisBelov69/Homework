@@ -12,13 +12,12 @@ int max = a;
 
 if (b > max)
 {
-     max = b;   
-      
-}
-
-if (c > max)
+max = b;  
+Console.WriteLine($"Max = {max}");
+    if (c > max)
 {
-    max = c;
+max = c;
     Console.WriteLine($"Max = {max}");
+}     
 }
 
