@@ -1,0 +1,15 @@
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson4task1/bin/Debug/net7.0/lesson4task1
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson4task1/bin/Debug/net7.0/lesson4task1.deps.json
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson4task1/bin/Debug/net7.0/lesson4task1.runtimeconfig.json
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson4task1/bin/Debug/net7.0/lesson4task1.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson4task1/bin/Debug/net7.0/lesson4task1.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson4task1/obj/Debug/net7.0/lesson4task1.csproj.AssemblyReference.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson4task1/obj/Debug/net7.0/lesson4task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson4task1/obj/Debug/net7.0/lesson4task1.AssemblyInfoInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson4task1/obj/Debug/net7.0/lesson4task1.AssemblyInfo.cs
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson4task1/obj/Debug/net7.0/lesson4task1.csproj.CoreCompileInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson4task1/obj/Debug/net7.0/lesson4task1.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson4task1/obj/Debug/net7.0/refint/lesson4task1.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson4task1/obj/Debug/net7.0/lesson4task1.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson4task1/obj/Debug/net7.0/lesson4task1.genruntimeconfig.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson4task1/obj/Debug/net7.0/ref/lesson4task1.dll
