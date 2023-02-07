@@ -1,0 +1,15 @@
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task24/obj/Debug/net7.0/task24.csproj.AssemblyReference.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task24/obj/Debug/net7.0/task24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task24/obj/Debug/net7.0/task24.AssemblyInfoInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task24/obj/Debug/net7.0/task24.AssemblyInfo.cs
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task24/obj/Debug/net7.0/task24.csproj.CoreCompileInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task24/bin/Debug/net7.0/task24
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task24/bin/Debug/net7.0/task24.deps.json
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task24/bin/Debug/net7.0/task24.runtimeconfig.json
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task24/bin/Debug/net7.0/task24.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task24/bin/Debug/net7.0/task24.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task24/obj/Debug/net7.0/task24.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task24/obj/Debug/net7.0/refint/task24.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task24/obj/Debug/net7.0/task24.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task24/obj/Debug/net7.0/task24.genruntimeconfig.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task24/obj/Debug/net7.0/ref/task24.dll
