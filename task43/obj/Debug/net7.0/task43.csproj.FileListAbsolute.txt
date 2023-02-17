@@ -1,0 +1,15 @@
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task43/bin/Debug/net7.0/task43
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task43/bin/Debug/net7.0/task43.deps.json
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task43/bin/Debug/net7.0/task43.runtimeconfig.json
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task43/bin/Debug/net7.0/task43.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task43/bin/Debug/net7.0/task43.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task43/obj/Debug/net7.0/task43.csproj.AssemblyReference.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task43/obj/Debug/net7.0/task43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task43/obj/Debug/net7.0/task43.AssemblyInfoInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task43/obj/Debug/net7.0/task43.AssemblyInfo.cs
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task43/obj/Debug/net7.0/task43.csproj.CoreCompileInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task43/obj/Debug/net7.0/task43.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task43/obj/Debug/net7.0/refint/task43.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task43/obj/Debug/net7.0/task43.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task43/obj/Debug/net7.0/task43.genruntimeconfig.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task43/obj/Debug/net7.0/ref/task43.dll
