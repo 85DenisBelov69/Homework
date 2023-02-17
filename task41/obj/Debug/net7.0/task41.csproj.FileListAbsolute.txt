@@ -1,0 +1,15 @@
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task41/bin/Debug/net7.0/task41
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task41/bin/Debug/net7.0/task41.deps.json
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task41/bin/Debug/net7.0/task41.runtimeconfig.json
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task41/bin/Debug/net7.0/task41.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task41/bin/Debug/net7.0/task41.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task41/obj/Debug/net7.0/task41.csproj.AssemblyReference.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task41/obj/Debug/net7.0/task41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task41/obj/Debug/net7.0/task41.AssemblyInfoInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task41/obj/Debug/net7.0/task41.AssemblyInfo.cs
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task41/obj/Debug/net7.0/task41.csproj.CoreCompileInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task41/obj/Debug/net7.0/task41.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task41/obj/Debug/net7.0/refint/task41.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task41/obj/Debug/net7.0/task41.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task41/obj/Debug/net7.0/task41.genruntimeconfig.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task41/obj/Debug/net7.0/ref/task41.dll
