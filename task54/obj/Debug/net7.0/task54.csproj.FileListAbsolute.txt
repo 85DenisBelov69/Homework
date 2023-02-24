@@ -1,0 +1,15 @@
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task54/obj/Debug/net7.0/task54.csproj.AssemblyReference.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task54/obj/Debug/net7.0/task54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task54/obj/Debug/net7.0/task54.AssemblyInfoInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task54/obj/Debug/net7.0/task54.AssemblyInfo.cs
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task54/obj/Debug/net7.0/task54.csproj.CoreCompileInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task54/bin/Debug/net7.0/task54
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task54/bin/Debug/net7.0/task54.deps.json
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task54/bin/Debug/net7.0/task54.runtimeconfig.json
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task54/bin/Debug/net7.0/task54.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task54/bin/Debug/net7.0/task54.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task54/obj/Debug/net7.0/task54.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task54/obj/Debug/net7.0/refint/task54.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task54/obj/Debug/net7.0/task54.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task54/obj/Debug/net7.0/task54.genruntimeconfig.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task54/obj/Debug/net7.0/ref/task54.dll
