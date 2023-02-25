@@ -1,0 +1,15 @@
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task56/bin/Debug/net7.0/task56
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task56/bin/Debug/net7.0/task56.deps.json
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task56/bin/Debug/net7.0/task56.runtimeconfig.json
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task56/bin/Debug/net7.0/task56.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task56/bin/Debug/net7.0/task56.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task56/obj/Debug/net7.0/task56.csproj.AssemblyReference.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task56/obj/Debug/net7.0/task56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task56/obj/Debug/net7.0/task56.AssemblyInfoInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task56/obj/Debug/net7.0/task56.AssemblyInfo.cs
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task56/obj/Debug/net7.0/task56.csproj.CoreCompileInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task56/obj/Debug/net7.0/task56.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task56/obj/Debug/net7.0/refint/task56.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task56/obj/Debug/net7.0/task56.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task56/obj/Debug/net7.0/task56.genruntimeconfig.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/task56/obj/Debug/net7.0/ref/task56.dll
