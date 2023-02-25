@@ -1,0 +1,15 @@
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson9Task67/bin/Debug/net7.0/lesson9Task67
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson9Task67/bin/Debug/net7.0/lesson9Task67.deps.json
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson9Task67/bin/Debug/net7.0/lesson9Task67.runtimeconfig.json
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson9Task67/bin/Debug/net7.0/lesson9Task67.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson9Task67/bin/Debug/net7.0/lesson9Task67.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson9Task67/obj/Debug/net7.0/lesson9Task67.csproj.AssemblyReference.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson9Task67/obj/Debug/net7.0/lesson9Task67.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson9Task67/obj/Debug/net7.0/lesson9Task67.AssemblyInfoInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson9Task67/obj/Debug/net7.0/lesson9Task67.AssemblyInfo.cs
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson9Task67/obj/Debug/net7.0/lesson9Task67.csproj.CoreCompileInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson9Task67/obj/Debug/net7.0/lesson9Task67.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson9Task67/obj/Debug/net7.0/refint/lesson9Task67.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson9Task67/obj/Debug/net7.0/lesson9Task67.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson9Task67/obj/Debug/net7.0/lesson9Task67.genruntimeconfig.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/lesson9Task67/obj/Debug/net7.0/ref/lesson9Task67.dll
