@@ -27,3 +27,9 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
+
+
+Console.WriteLine(String.Join(", ", GetArray));
+CountNumbers(GetArray, NewArray);
+Console.WriteLine(" элементы <= 3 символов: ");
+PrintArray(NewArray);
