@@ -1,0 +1,15 @@
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/SessionExam/bin/Debug/net7.0/SessionExam
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/SessionExam/bin/Debug/net7.0/SessionExam.deps.json
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/SessionExam/bin/Debug/net7.0/SessionExam.runtimeconfig.json
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/SessionExam/bin/Debug/net7.0/SessionExam.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/SessionExam/bin/Debug/net7.0/SessionExam.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/SessionExam/obj/Debug/net7.0/SessionExam.csproj.AssemblyReference.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/SessionExam/obj/Debug/net7.0/SessionExam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/SessionExam/obj/Debug/net7.0/SessionExam.AssemblyInfoInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/SessionExam/obj/Debug/net7.0/SessionExam.AssemblyInfo.cs
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/SessionExam/obj/Debug/net7.0/SessionExam.csproj.CoreCompileInputs.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/SessionExam/obj/Debug/net7.0/SessionExam.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/SessionExam/obj/Debug/net7.0/refint/SessionExam.dll
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/SessionExam/obj/Debug/net7.0/SessionExam.pdb
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/SessionExam/obj/Debug/net7.0/SessionExam.genruntimeconfig.cache
+/Users/olgabelova/Desktop/Lesson1C#/Tasks/SessionExam/obj/Debug/net7.0/ref/SessionExam.dll
